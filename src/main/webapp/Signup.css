@@ -1,0 +1,38 @@
+@charset "ISO-8859-1";
+
+.main{
+    background-color:#abf1f3;
+    width: 400px;
+    height: 450px;
+    margin-left: 30%;
+    margin-top: 10%;
+    border: 5px solid;
+    border-color:black;
+    padding: 10px;
+  //  box-shadow: 5px 10px;
+   // box-shadow: 10px 20px #ff9866;
+	
+	
+}
+#in{
+	height: 35px;
+	width:250px;
+    border-bottom: 1px solid;
+   border-color: #800080;
+   border-radius: 10px;
+   font-size: large;
+}
+form{
+	 margin-left: 25%;
+	    padding: 10px;
+	    width:60px;
+	
+}
+.btn{
+	
+    width: 70px;
+    height: 40px;
+    background-color:#7373ff;
+     margin-left: 50%;
+
+}

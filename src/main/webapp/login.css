@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+
+	
+#in{
+	text-align:centre;
+	height: 40px;
+    width:250px;
+   border-bottom: 1px solid;
+   border-color:#800080 ;
+   border-radius: 20px;
+   font-size: large;
+}
+form{
+	 margin-left: 25%;
+	    padding: 10px;
+	
+}
+.btn{
+	color:bule;
+	font-size:20px;
+    width: 80px;
+    heigh:20px;
+    background-color:#afaf61;
+   
+
+}
